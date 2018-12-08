@@ -5,7 +5,15 @@ In this workshop we'll be exploring the topic of Computer Vision, through deep d
  
 This computer vision workshop is based on the work detecting complex policies in the following [real life code story](https://www.microsoft.com/developerblog/2017/07/31/using-object-detection-complex-image-classification-scenarios/)
 
-Everything in the workshop is selfcontained in docker and will run on a cpu machine.
+There are six parts to the workshop:
+ - 1) [Introduction](https://github.com/aribornstein/cvworkshop/blob/master/%231%20Computer%20Vision%20Workshop%20Intro.ipynb)
+ - 2) [Policy Classfication With Custom Vision Service](https://github.com/aribornstein/cvworkshop/blob/master/%232%20Policy%20Classfication%20With%20Custom%20Vision%20Service.ipynb)
+ - 3) [Policy Recognition with CNNs, MobileNet and Transfer Learning](https://github.com/aribornstein/cvworkshop/blob/master/%233%20Policy%20Recognition%20with%20CNNs%2C%20MobileNet%20and%20Transfer%20Learning.ipynb)
+ - 4) [Policy Detection with Keras RetinaNet](https://github.com/aribornstein/cvworkshop/blob/master/%234%20Policy%20Detection%20with%20Keras%20RetinaNet.ipynb)
+ - 5) [Training and Computer Vision Models on the Cloud using Azure ML Service](https://github.com/aribornstein/cvworkshop/blob/master/%235%20Training%20and%20Computer%20Vision%20Models%20on%20the%20Cloud%20using%20Azure%20ML%20Service.ipynb)
+ - 6) [Train a Computer Vision Model on a Remote Cluster with Azure Machine Learning](https://github.com/aribornstein/cvworkshop/blob/master/%235%20Training%20and%20Computer%20Vision%20Models%20on%20the%20Cloud%20using%20Azure%20ML%20Service.ipynb)
+
+Everything in the workshop is self-contained in docker and will run on a cpu machine.
 
 # Setup Instructions
 
