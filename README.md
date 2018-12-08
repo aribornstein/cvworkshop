@@ -4,6 +4,8 @@
 Photocredits to the talented [Ashley Mcnamara](https://github.com/ashleymcnamara/Developer-Advocate-Bit/blob/master/bit_ai.png)
 
 In this workshop we'll be exploring the topic of Computer Vision, through deep diving into a recent real world customer scenario. We’ll compare different approaches and demonstrate how the open source [VoTT](github.com/Microsoft/VoTT) (Visual Object Tagging Tool) can be used to easily annotate image and quickly iterate object detection models for complex image classification scenarios. 
+
+# Getting Started
  
 This computer vision workshop is based on the work detecting complex policies in the following [real life code story](https://www.microsoft.com/developerblog/2017/07/31/using-object-detection-complex-image-classification-scenarios/)
 
