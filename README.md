@@ -20,7 +20,7 @@ Everything in the workshop is self-contained in docker and will run on a cpu mac
 ## Option 1 Run Locally 
 
 ### Step 1 
-Download and Install the [docker](https://www.docker.com) or if you have a gpu and unix based os the nvidia-docker client.
+Download and Install the [docker](https://www.docker.com) client.
 
 ### Step 2
 Run the following command in the terminal or command prompt
