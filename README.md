@@ -82,5 +82,5 @@ Replace the http://cd3cdb8ea05f or http://localhost part of the jupyter url with
 ![](https://cdn-images-1.medium.com/max/1200/0*6G_Ex_dQt4NU63sE.gif)
 
 ## About the Author
-Aaron (Ari) Bornstein is an avid AI enthusiast with a passion for history, engaging with new technologies and computational medicine. As an Open Source Engineer at Microsoft’s Cloud Developer Advocacy team, he collaborates with Israeli Hi-Tech Community, to solve real world problems with game changing technologies that are then documented, open sourced, and shared with the rest of the world.
+[Aaron (Ari) Bornstein](https://medium.com/@aribornstein/what-does-it-mean-to-be-the-first-microsoft-cloud-developer-advocate-in-israel-2156f1d61229) is an avid AI enthusiast with a passion for history, engaging with new technologies and computational medicine. As an Open Source Engineer at Microsoft’s Cloud Developer Advocacy team, he collaborates with Israeli Hi-Tech Community, to solve real world problems with game changing technologies that are then documented, open sourced, and shared with the rest of the world.
 
