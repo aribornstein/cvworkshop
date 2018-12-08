@@ -1,4 +1,4 @@
-# Computer Vision Workshop
+# Computer Vision Workshop: Using Object Detection for Complex Image Classification Scenarios
 ![](https://codestoryedge.azureedge.net/developerblog/wp-content/uploads/23655638130_b979de45df_b-450x300.jpg)
 
 In this workshop we'll be exploring the topic of Computer Vision, through deep diving into a recent real world customer scenario. We’ll compare different approaches and demonstrate how the open source [VoTT](github.com/Microsoft/VoTT) (Visual Object Tagging Tool) can be used to easily annotate image and quickly iterate object detection models for complex image classification scenarios. 
