@@ -1,5 +1,7 @@
 # Computer Vision Workshop: Using Object Detection for Complex Image Classification Scenarios
-![](https://codestoryedge.azureedge.net/developerblog/wp-content/uploads/23655638130_b979de45df_b-450x300.jpg)
+![](https://github.com/ashleymcnamara/Developer-Advocate-Bit/blob/master/bit_ai.png?raw=true)
+
+Photocredits to the talented [Ashley Mcnamara](https://github.com/ashleymcnamara/Developer-Advocate-Bit/blob/master/bit_ai.png)
 
 In this workshop we'll be exploring the topic of Computer Vision, through deep diving into a recent real world customer scenario. We’ll compare different approaches and demonstrate how the open source [VoTT](github.com/Microsoft/VoTT) (Visual Object Tagging Tool) can be used to easily annotate image and quickly iterate object detection models for complex image classification scenarios. 
  
@@ -34,7 +36,7 @@ Copy and store the notebook token key that is displayed after the notebook serve
 Navigate to http://localhost:8888/tree and enter the token you copied.
 
 ### Step 4
-Click on the "Computer Vision Workshop Intro" notebook and confirm that everthing loads as expected
+Click on the "Computer Vision Workshop Intro" notebook and confirm that everthing loads as expected.
 
 ## Option 2 Run On the cloud with the [Azure DSVM](https://medium.com/@aribornstein/5-steps-to-more-interactive-deep-learning-79126f089696) 
 
@@ -78,4 +80,7 @@ Now that your Jupyter notebook is running to access it in the browser, copy the 
 Replace the http://cd3cdb8ea05f or http://localhost part of the jupyter url with your VM's DNS name
 
 ![](https://cdn-images-1.medium.com/max/1200/0*6G_Ex_dQt4NU63sE.gif)
+
+## About the Author
+Aaron (Ari) Bornstein is an avid AI enthusiast with a passion for history, engaging with new technologies and computational medicine. As an Open Source Engineer at Microsoft’s Cloud Developer Advocacy team, he collaborates with Israeli Hi-Tech Community, to solve real world problems with game changing technologies that are then documented, open sourced, and shared with the rest of the world.
 
