@@ -7,7 +7,7 @@ In this workshop we'll be exploring the topic of Computer Vision, through deep d
 
 # Getting Started
  
-This computer vision workshop is based on the work detecting complex policies in the following [real life code story](https://www.microsoft.com/developerblog/2017/07/31/using-object-detection-complex-image-classification-scenarios/)
+This computer vision workshop is based on the work detecting complex policies in the following [real life code story](https://www.microsoft.com/developerblog/2017/07/31/using-object-detection-complex-image-classification-scenarios/?WT.mc_id=aiml-0000-abornst)
 
 There are six parts to the workshop:
  - 1) [Introduction](https://github.com/aribornstein/cvworkshop/blob/master/%231%20Computer%20Vision%20Workshop%20Intro.ipynb)
@@ -42,15 +42,15 @@ Click on the "Computer Vision Workshop Intro" notebook and confirm that everthin
 
 ## Option 2 Run On the cloud with the [Azure DSVM](https://medium.com/@aribornstein/5-steps-to-more-interactive-deep-learning-79126f089696) 
 
-The [Data Science Virtual Machine (DSVM)](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/overview?WT.mc_id=cvworkshop-github-abornst) is a customized VM image on Microsoft’s Azure cloud built specifically for doing data science. It has many popular data science and other tools pre-installed and pre-configured to jump-start building intelligent applications for advanced analytics. While this workshop will run on any cloud it is optimized and tested on the Azure DSVM.
+The [Data Science Virtual Machine (DSVM)](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/overview?WT.mc_id=aiml-0000-abornst) is a customized VM image on Microsoft’s Azure cloud built specifically for doing data science. It has many popular data science and other tools pre-installed and pre-configured to jump-start building intelligent applications for advanced analytics. While this workshop will run on any cloud it is optimized and tested on the Azure DSVM.
 
 ### Prerequisite’s
 
-Azure Subscription you can sign up for a trial [here](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/?WT.mc_id=medium-blog-abornst)
+Azure Subscription you can sign up for a trial [here](https://azure.microsoft.com/offers/ms-azr-0044p/?WT.mc_id=aiml-0000-abornst)
 
 ### Step 1
 
-Create Linux a DSVM for deployment steps [click here](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro?WT.mc_id=cvworkshop-github-abornst)
+Create Linux a DSVM for deployment steps [click here](https://docs.microsoft.com/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro?WT.mc_id=aiml-0000-abornst)
 ![](https://cdn-images-1.medium.com/max/1200/0*jqpjzD7wCqzGk2dR.gif)
 
 ### Step 2 
@@ -59,7 +59,7 @@ Open the Port 8888 on the DSVM
 
 ![](https://cdn-images-1.medium.com/max/1200/0*B_wWKNZL9UFiZh9K.gif)
 
-For detailed steps on opening a port [click here](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/nsg-quickstart-portal?WT.mc_id=cvworkshop-github-abornst)
+For detailed steps on opening a port [click here](https://docs.microsoft.com/azure/virtual-machines/windows/nsg-quickstart-portal?WT.mc_id=aiml-0000-abornst)
 
 ### Step 3
 
